@@ -14,6 +14,7 @@
 		7CE8F6F52277DD29007B0B26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE8F6F42277DD29007B0B26 /* Assets.xcassets */; };
 		7CE8F6F82277DD29007B0B26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CE8F6F62277DD29007B0B26 /* LaunchScreen.storyboard */; };
 		7CE8F7032277DD29007B0B26 /* CoreDataPlaygroundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE8F7022277DD29007B0B26 /* CoreDataPlaygroundTests.swift */; };
+		7CE8F70E2277F72E007B0B26 /* Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE8F70D2277F72E007B0B26 /* Range.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		7CE8F6FE2277DD29007B0B26 /* CoreDataPlaygroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataPlaygroundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CE8F7022277DD29007B0B26 /* CoreDataPlaygroundTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataPlaygroundTests.swift; sourceTree = "<group>"; };
 		7CE8F7042277DD29007B0B26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CE8F70D2277F72E007B0B26 /* Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Range.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				7CE8F6F62277DD29007B0B26 /* LaunchScreen.storyboard */,
 				7CE8F6F92277DD29007B0B26 /* Info.plist */,
 				7CE8F6F12277DD27007B0B26 /* CoreDataPlayground.xcdatamodeld */,
+				7CE8F70D2277F72E007B0B26 /* Range.swift */,
 			);
 			path = CoreDataPlayground;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				7CE8F6F32277DD27007B0B26 /* CoreDataPlayground.xcdatamodeld in Sources */,
 				7CE8F6ED2277DD27007B0B26 /* ViewController.swift in Sources */,
 				7CE8F6EB2277DD27007B0B26 /* AppDelegate.swift in Sources */,
+				7CE8F70E2277F72E007B0B26 /* Range.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
